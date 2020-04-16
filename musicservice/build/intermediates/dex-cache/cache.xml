@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\androidstudio\work\musicservice\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\androidstudio\work\musicservice\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e421903a4c55de859563f037a03c3d2da777a9d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidstudio\work\musicservice\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d2f5891f126df89d03a96373ab4eda01f58d4d1e">
+        <dex dex="D:\androidstudio\work\musicservice\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_78fd048ce4ad316309c5ea0b7da46091d3ae81e2\classes.dex" />
+    </item>
+
+</items>
